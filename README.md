@@ -2,21 +2,25 @@
 
 > **作者：李不平**
 
+
+
+> 微信：libuping2023
+> **扫码加好友,来微信交流群**
+> ![李不平微信好友.jpg](https://obsidian-1321478227.cos.ap-shanghai.myqcloud.com/obsidian/%E6%9D%8E%E4%B8%8D%E5%B9%B3%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B.jpg)
+>
+
+
 交流平台：微信公众号
 
 ![qrcode_for_gh_f471d4c80201_258.jpg](https://obsidian-1321478227.cos.ap-shanghai.myqcloud.com/obsidian/qrcode_for_gh_f471d4c80201_258.jpg)
 
 ![搜索框传播样式-标准色版.png](https://obsidian-1321478227.cos.ap-shanghai.myqcloud.com/obsidian/%E6%90%9C%E7%B4%A2%E6%A1%86%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
 
-
 CSDN博客:[李不平AUTOSAR](libuping.blog.csdn.net)
-
 
 知乎：[知乎李不平 AUTOSAR](https://www.zhihu.com/people/llpp-76-56)
 
-
 github： [AUTOSAR_CP](https://github.com/clippinglee/AUTOSAR_CP)
-
 
 ---
 
@@ -62,7 +66,6 @@ github： [AUTOSAR_CP](https://github.com/clippinglee/AUTOSAR_CP)
 
 [《我的Classic Platform AUTOSAR之路》 Port Driver简介](https://libuping.blog.csdn.net/article/details/134876359)
 
-
 ## AUTOSAR 进阶篇(system and sevice)
 
 [《我的Classic Platform AUTOSAR之路》NVM](https://libuping.blog.csdn.net/article/details/135410151)
@@ -77,7 +80,6 @@ github： [AUTOSAR_CP](https://github.com/clippinglee/AUTOSAR_CP)
 
 [《我的Classic Platform AUTOSAR之路》EcuM介绍](https://libuping.blog.csdn.net/article/details/134599110)
 
-
 ## AUTOSAR 高级篇(详细配置,代码,调试经验等)
 
 [《我的Classic Platform AUTOSAR之路》多核OS配置其实很简单](https://libuping.blog.csdn.net/article/details/134462839)
@@ -86,11 +88,9 @@ github： [AUTOSAR_CP](https://github.com/clippinglee/AUTOSAR_CP)
 
 [《我的Classic Platform AUTOSAR之路》Function safety mechanisms功能安全方法](https://blog.csdn.net/qq_44992918/article/details/136332603?spm=1001.2014.3001.5501)
 
-
 ## 探讨与想法
 
 [AUTOSAR OS Basic TASK 与 Extended TASK哪个更好？](https://blog.csdn.net/qq_44992918/article/details/136331975?spm=1001.2014.3001.5501)
-
 
 ## 后续
 
